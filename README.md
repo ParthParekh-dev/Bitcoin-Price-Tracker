@@ -1,6 +1,8 @@
-# price_tracker_app
+# Price_tracker_app
 
-A new Flutter application.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81976919/114871115-928b3d80-9e16-11eb-9ee3-472da12cb73e.mp4" width="50%" />
+</p> 
 
 ## Getting Started
 
