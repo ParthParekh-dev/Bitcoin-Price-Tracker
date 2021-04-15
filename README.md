@@ -2,7 +2,7 @@
 Bitcoin price ticker with currency conversion using coinApi http request (https://docs.coinapi.io/)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81976919/114872198-b733e500-9e17-11eb-90f7-e5cbee873b4f.gif" width="33.3%" />
+  <img src="https://user-images.githubusercontent.com/81976919/114873522-fc0c4b80-9e18-11eb-8029-eb089b27a2d0.gif" width="40%" />
 </p> 
 
 ## Getting Started
