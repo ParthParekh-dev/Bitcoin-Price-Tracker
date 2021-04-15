@@ -1,7 +1,7 @@
 # Price_tracker_app
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/81976919/114872198-b733e500-9e17-11eb-90f7-e5cbee873b4f.gif" width="50%" />
+  <img src="https://user-images.githubusercontent.com/81976919/114872198-b733e500-9e17-11eb-90f7-e5cbee873b4f.gif" width="33.3%" />
 </p> 
 
 ## Getting Started
